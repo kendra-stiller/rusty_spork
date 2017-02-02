@@ -1,0 +1,5 @@
+This is a file I'm committing to github for lab 3
+
+Thanks for reading.
+
+~Kylee Bennett
